@@ -1,3 +1,10 @@
+Updated from `mujoco_py` to `mujoco`. Tested for `mujoco==2.3.7`. 
+Please install `mujoco` and `mujoco-python-viewer` to execute the script.
+```bash
+pip install mujoco==2.3.7 mujoco-python-viewer
+```
+
+Original README starts from here.
 # mocap-control
 By creating a mocap body and fixing it to the end point of the robotic arm, Realize inverse kinematics in mujoco through mocap control.
 
